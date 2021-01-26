@@ -1,7 +1,5 @@
 from os import system
 from math import ceil
-import sys
-import os
 
 def findBlockTable(alias):
 	for blockTable in blockPrices:
